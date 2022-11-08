@@ -1,8 +1,11 @@
 # Eduardo Muller
+`console.log("Hello World!");`
 ## Computer Science and Technology student (with 4 weeks until graduation)
 ### Hi there 👋
 
-I am currently finishing my studies in Computer Science and Technology at Tecnologico de Monterrey
+![:D](https://64.media.tumblr.com/597a39e662b916ebd3243ad3128349f4/da4457566105d723-84/s400x600/0273479b1395219ac3ae67cd5469c925eddb7f51.gif)
+
+I am currently finishing my studies in Computer Science and Technology at Tecnologico de Monterrey and my professional goal is to be a contributor to the upgrading of the life quality and security of people using technology.
 
 <!--
 **MullerDerRaumdeuter13/MullerDerRaumdeuter13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
