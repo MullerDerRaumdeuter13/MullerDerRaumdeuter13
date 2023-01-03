@@ -22,9 +22,9 @@ I am an Engineer in Computer Science and Technology graduated this past December
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
--
+<br />
 
--
+#
 
 ### Contact
 
