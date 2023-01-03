@@ -2,13 +2,13 @@
 `printf("Hello World!");`
 ## Computer Science and Technology Enginner 
 ## Tecnologico de Monterrey Campus Estado de Mexico
-### Hi there 👋
+#### Hi there 👋
 
 ![:D](https://64.media.tumblr.com/597a39e662b916ebd3243ad3128349f4/da4457566105d723-84/s400x600/0273479b1395219ac3ae67cd5469c925eddb7f51.gif)
 
 I am an Engineer in Computer Science and Technology graduated this past December from Tecnologico de Monterrey Campus Estado de Mexico and my professional goal is to be a contributor to the upgrading of the life quality and security of people using technology.
 
-## Languages and Tools
+### Languages and Tools
 
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -22,11 +22,17 @@ I am an Engineer in Computer Science and Technology graduated this past December
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+-
 
-## Contact
+-
 
-<p>📫 How to reach me: ...</p>
-<p>email: eduardo.muller2@gmail.com</p>
+### Contact
+
+📫 How to reach me: ...
+
+email: eduardo.muller2@gmail.com
+
+twitter: @mapacheSWAT
 
           
 
